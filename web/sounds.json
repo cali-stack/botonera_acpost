@@ -1,5 +1,10 @@
 [
-  { "name": "Aplausos", "file": "aplausos.mp3" },
-  { "name": "Risas", "file": "risas.wav" },
-  { "name": "Redoblante", "file": "redoblante.aiff" }
+  { "name": "Ahora", "file": "ahora.mpeg" },
+  { "name": "Grandote", "file": "grandote.mp3" },
+  { "name": "Mira lo que es eso...", "file": "leo.aif" }
+  { "name": "Llegas", "file": "Llegas.aif" }
+  { "name": "Necesidades", "file": "necesito.wav" }
+  { "name": "Papa", "file": "papa.wav" }
+  { "name": "Un Sanguche", "file": "queso.wav" }
+  { "name": "Date la vuelta", "file": "vuelta.aif" }
 ]
