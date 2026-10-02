@@ -38,5 +38,17 @@
   {
     "name": "Cruzala",
     "file": "cruzala.wav"
+  },
+  {
+    "name": "Garganta Profunda",
+    "file": "garganta.wav"
+  },
+  {
+    "name": "Gringo Loco",
+    "file": "gringo.wav"
+  },
+  {
+    "name": "Decime",
+    "file": "decime.wav"
   }
 ]
