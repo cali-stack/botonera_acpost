@@ -30,5 +30,13 @@
     {
     "name": "Ahora es ahora",
     "file": "ahora.mpeg"
+  },
+  {
+    "name": "El de Aldo",
+    "file": "aldo.mp3"
+  },
+  {
+    "name": "Cruzala",
+    "file": "cruzala.wav"
   }
 ]
